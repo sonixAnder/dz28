@@ -1,0 +1,4 @@
+﻿  shifting columns, rows in an array.cpp
+C:\Users\SSoni\Desktop\shifting columns, rows in an array\shifting columns, rows in an array\shifting columns, rows in an array.cpp(8,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SSoni\Desktop\shifting columns, rows in an array\shifting columns, rows in an array\shifting columns, rows in an array.cpp(9,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  shifting columns, rows in an array.vcxproj -> C:\Users\SSoni\Desktop\shifting columns, rows in an array\x64\Debug\shifting columns, rows in an array.exe
